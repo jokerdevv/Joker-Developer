@@ -8,8 +8,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/wawi8/TeleNew.git -b supergroups
-cd TeleNew
+git clone https://github.com/jokerdevv/Joker-Developer.git
+cd Joker-Developer
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -25,23 +25,23 @@ After you run the bot for first time, send it `id`. Get your ID and stop the bot
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
   sudo_users = {
-    196458060,
-    164118057,
-    4957018,
+    190385827,
     0,
+    0,
+    0
     YourID
   }
 ```
 
 ### Telegram channels:
 
-Arabic: [@iq_dev8](http://telegram.me/iq_dev8)
+Arabic: [@HELP_TELP](http://telegram.me/HELP_TELP)
 
 
 # Speclal thanks For : 
 
-@iq_plus
+@FUCK_8_YOU
 
-@HackeD_o
+@DEVSS_BOT
 
 
